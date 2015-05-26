@@ -1,0 +1,74 @@
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Moq.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\WebActivator.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Moq.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\EntityFramework.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Moq.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\SportsStore.Domain.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Helpers.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Mvc.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Razor.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\WebActivator.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\EntityFramework.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Moq.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.pdb
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Razor.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Helpers.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\bin\System.Web.Mvc.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb

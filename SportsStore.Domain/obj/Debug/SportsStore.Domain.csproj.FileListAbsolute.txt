@@ -1,0 +1,44 @@
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\patela7014\Downloads\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\EntityFramework.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\EntityFramework.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+M:\Thinix Programming Challenge - ASP.NET\Thinix Programming Challenge - ASP.NET\SportsStore_FirstnameLastname\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
